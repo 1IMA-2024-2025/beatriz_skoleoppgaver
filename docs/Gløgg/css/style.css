@@ -8,26 +8,30 @@ body {
     justify-content: center;
     display: flex;
     flex-direction: column;
-    background: white;
+    background: rgb(75, 30, 29);
     font-size: 2em;
 }
 
 .box {
     display: flex;
-    width: 100%;
+    width: 90%;
     height: 30%;
     justify-content: center;
+    background-color: white;
     
-    
+
 }
+
+
 
 .box2 {
     display: flex;
-    width: 100%;
+    width: 90%;
     height: 50%;
     justify-content: space-around;
     align-items: center;
     background:rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     font-size: 1em;
+    
 }
