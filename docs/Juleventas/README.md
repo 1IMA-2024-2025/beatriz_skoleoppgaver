@@ -23,3 +23,5 @@ I dag lagde jeg en til nettside. Jeg var ikke så fornøyd med utseende.
 
 
 ### Fredag 13 Desember 2024
+
+I dag har jeg endra på den første nettsiden sånn at boxsene er basert på texsten og at blidet er basert på skjerm høyden (vh). Jeg har også fått gjort nettsiden responsiv.
