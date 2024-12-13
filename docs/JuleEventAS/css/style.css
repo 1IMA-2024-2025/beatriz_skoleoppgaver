@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+
+.overskrift {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    background: white;
+    font-size: 2em;
+}
+
+img {
+    width: 120%;
+    height: 40vh;
+}
+
+.text {
+    margin-top: 10vh;
+    position: absolute;
+}
+
+.box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    background: white;
+    font-size: 2em;
+    margin-top: 5vh;
+}
+
+.box p {
+    width: 70%;
+
+}
