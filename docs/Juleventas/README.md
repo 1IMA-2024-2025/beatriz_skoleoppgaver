@@ -15,3 +15,11 @@ I dag har jeg begynt å lage nettsiden. Jeg har laget en skisse, om hvordan jeg 
 ### Fredag 06 Desember 2024
 
 I dag har jeg skrevet ned julearrangementene, satt inn bilder og linka til den berømte gløgg oppskriften.
+
+
+### Tirsdag 10 Desember 2024
+
+I dag lagde jeg en til nettside. Jeg var ikke så fornøyd med utseende. 
+
+
+### Fredag 13 Desember 2024
